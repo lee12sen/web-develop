@@ -1,4 +1,13 @@
+웹 개발의 틀
 html -> 구조화를 가능하게 해줌. 문서 마크업 기능(볼드, 이탤릭체, 머리말, 제목 등)
 css -> html로 만들 틀을 꾸밈
 javascript -> 동사역할, 함수 기능
+
+
+<html tag>
+html의 요소 중 html tag를 이용하여 여러 마크업이 가능, 태그로 감싸기
+예제 파일명 : chickens.html -> 확장자를 .html이라고 해야 html파일임을 앎. 또, 브라우저가 파일을 열때 파일을 html로 인식하여 html로 실행
+
+bold tag : <b></b>    // 여는태그 닫는태그
+ex) <b>chicken</b>
 
