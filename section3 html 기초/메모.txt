@@ -25,3 +25,4 @@ chrome inspector로 디버그나 html, css, javascript 작업이 가능
 
 html 골자 (html 상용구) : html 파일에서 필수적으로 들어가야하는 표준화된 마크업 (상용구가 없어도 브라우저에서 보여주지만 꼭 갖춰야한다.)
 <!DOCTYPE html> : html5를 사용한다는 표식(대충), html5는 대충 html 최신판
+<html></html> : 루트 요소, 문서의 최상위 요소로 페이지의 다른 요소들은 이를 근간으로 한다.
