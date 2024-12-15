@@ -47,3 +47,6 @@ html 골자 (html 상용구) : html 파일에서 필수적으로 들어가야하
 <body> : 문서의 모든 내용. 우리가 보는 내용을 작성.
 
 ! + tab : html 문서 생성 단축키
+
+포멧팅 팁
+ctrl + shift + p -> format document
