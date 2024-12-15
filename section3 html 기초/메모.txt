@@ -50,3 +50,9 @@ html 골자 (html 상용구) : html 파일에서 필수적으로 들어가야하
 
 포멧팅 팁 (가독성이 좋아짐.)
 ctrl + shift + p -> format document
+
+
+목록(숫자로 된 것, 점으로 된것)
+ol : order list. 숫자
+ul : 점
+부모 요소 ol, ul 아래에 list item <li>들이 있음.
