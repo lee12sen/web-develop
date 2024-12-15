@@ -48,5 +48,5 @@ html 골자 (html 상용구) : html 파일에서 필수적으로 들어가야하
 
 ! + tab : html 문서 생성 단축키
 
-포멧팅 팁
+포멧팅 팁 (가독성이 좋아짐.)
 ctrl + shift + p -> format document
