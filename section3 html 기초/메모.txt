@@ -53,6 +53,6 @@ ctrl + shift + p -> format document
 
 
 목록(숫자로 된 것, 점으로 된것)
-ol : order list. 숫자
-ul : 점
-부모 요소 ol, ul 아래에 list item <li>들이 있음.
+ol : order list. 숫자로 표시된 목록 (순서 O)
+ul : unorder list. 점으로 표시된 목록 (순서 X)
+부모 요소 ol, ul 아래에 하위 요소 list item <li>들이 있음.
