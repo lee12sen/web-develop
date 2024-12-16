@@ -25,6 +25,7 @@ chrome inspector로 디버그나 html, css, javascript 작업이 가능
 
 html 골자 (html 상용구) : html 파일에서 필수적으로 들어가야하는 표준화된 마크업 (상용구가 없어도 브라우저에서 보여주지만 꼭 갖춰야한다.)
 <!DOCTYPE html>
+<html>
 <head>
     <title>My First Page</title>
 </head>
@@ -56,3 +57,5 @@ ctrl + shift + p -> format document
 ol : order list. 숫자로 표시된 목록 (순서 O)
 ul : unorder list. 점으로 표시된 목록 (순서 X)
 부모 요소 ol, ul 아래에 하위 요소 list item <li>들이 있음.
+
+목록 중첩 가능
